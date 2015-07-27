@@ -18,7 +18,7 @@ This tool was written for and tested solely with Python 3.2, and the necessary l
 
 ## Sample Output
 
-'''
+```
 C:\Users\Tom\Code\Email_Scraper_Poject>C:\Python32\python.exe find_email_addresses.py http://www.polygon.com
 support@voxmedia.com
 chris@polygon.com
@@ -82,4 +82,4 @@ amcvolservices@outdoors.org
 AMCMembership@outdoors.org
 AMCmembership@outdoors.org
 Whoops! Caught an unhandled exception. This needs work... try a different URL!
-'''
+```
